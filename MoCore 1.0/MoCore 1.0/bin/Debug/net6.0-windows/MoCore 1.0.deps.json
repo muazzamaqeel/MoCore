@@ -6,6 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
+      "MoCore 1.0/1.0.0": {
+        "dependencies": {
+          "Microsoft.VisualBasic": "10.3.0",
+          "System.Management": "8.0.0"
+        },
+        "runtime": {
+          "MoCore 1.0.dll": {}
+        }
+      },
       "Microsoft.VisualBasic/10.3.0": {},
       "System.CodeDom/8.0.0": {
         "runtime": {
@@ -37,6 +46,11 @@
     }
   },
   "libraries": {
+    "MoCore 1.0/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
     "Microsoft.VisualBasic/10.3.0": {
       "type": "package",
       "serviceable": true,

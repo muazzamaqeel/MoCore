@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "K5quvoSUjixuzXAhu0Zj1C5NwjyX/yHOFXy25APOnaiDU6rxA+va1fvndyLtAWGx1vtTjkK2yhoeNBKv3RlNlA==",
+  "dgSpecHash": "J68pAi+6IukF6v3jwETLvV8kLP4xdQGp1Wru5xroptYZpLLFY8LNg8q+CAQCo0YtR+2oKw/K2/EjtTceLcNYWQ==",
   "success": true,
   "projectFilePath": "C:\\programming\\MoCore\\MoCore\\MoCore 1.0\\MoCore 1.0\\MoCore 1.0.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\muazz\\.nuget\\packages\\microsoft.visualbasic\\10.3.0\\microsoft.visualbasic.10.3.0.nupkg.sha512",
+    "C:\\Users\\muazz\\.nuget\\packages\\system.codedom\\8.0.0\\system.codedom.8.0.0.nupkg.sha512",
+    "C:\\Users\\muazz\\.nuget\\packages\\system.management\\8.0.0\\system.management.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

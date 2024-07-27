@@ -1,0 +1,24 @@
+C:\programming\MoCore\MoCore\MoCore 1.0\MoCore 1.0\bin\Debug\net6.0-windows\MoCore 1.0.exe
+C:\programming\MoCore\MoCore\MoCore 1.0\MoCore 1.0\bin\Debug\net6.0-windows\MoCore 1.0.deps.json
+C:\programming\MoCore\MoCore\MoCore 1.0\MoCore 1.0\bin\Debug\net6.0-windows\MoCore 1.0.runtimeconfig.json
+C:\programming\MoCore\MoCore\MoCore 1.0\MoCore 1.0\bin\Debug\net6.0-windows\MoCore 1.0.dll
+C:\programming\MoCore\MoCore\MoCore 1.0\MoCore 1.0\bin\Debug\net6.0-windows\MoCore 1.0.pdb
+C:\programming\MoCore\MoCore\MoCore 1.0\MoCore 1.0\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\programming\MoCore\MoCore\MoCore 1.0\MoCore 1.0\obj\Debug\net6.0-windows\App.g.cs
+C:\programming\MoCore\MoCore\MoCore 1.0\MoCore 1.0\obj\Debug\net6.0-windows\MoCore 1.0_MarkupCompile.cache
+C:\programming\MoCore\MoCore\MoCore 1.0\MoCore 1.0\obj\Debug\net6.0-windows\MainWindow.baml
+C:\programming\MoCore\MoCore\MoCore 1.0\MoCore 1.0\obj\Debug\net6.0-windows\MoCore 1.0.g.resources
+C:\programming\MoCore\MoCore\MoCore 1.0\MoCore 1.0\obj\Debug\net6.0-windows\MoCore 1.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\programming\MoCore\MoCore\MoCore 1.0\MoCore 1.0\obj\Debug\net6.0-windows\MoCore 1.0.AssemblyInfoInputs.cache
+C:\programming\MoCore\MoCore\MoCore 1.0\MoCore 1.0\obj\Debug\net6.0-windows\MoCore 1.0.AssemblyInfo.cs
+C:\programming\MoCore\MoCore\MoCore 1.0\MoCore 1.0\obj\Debug\net6.0-windows\MoCore 1.0.csproj.CoreCompileInputs.cache
+C:\programming\MoCore\MoCore\MoCore 1.0\MoCore 1.0\obj\Debug\net6.0-windows\MoCore 1.0.dll
+C:\programming\MoCore\MoCore\MoCore 1.0\MoCore 1.0\obj\Debug\net6.0-windows\refint\MoCore 1.0.dll
+C:\programming\MoCore\MoCore\MoCore 1.0\MoCore 1.0\obj\Debug\net6.0-windows\MoCore 1.0.pdb
+C:\programming\MoCore\MoCore\MoCore 1.0\MoCore 1.0\obj\Debug\net6.0-windows\MoCore 1.0.genruntimeconfig.cache
+C:\programming\MoCore\MoCore\MoCore 1.0\MoCore 1.0\obj\Debug\net6.0-windows\ref\MoCore 1.0.dll
+C:\programming\MoCore\MoCore\MoCore 1.0\MoCore 1.0\bin\Debug\net6.0-windows\System.CodeDom.dll
+C:\programming\MoCore\MoCore\MoCore 1.0\MoCore 1.0\bin\Debug\net6.0-windows\System.Management.dll
+C:\programming\MoCore\MoCore\MoCore 1.0\MoCore 1.0\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\programming\MoCore\MoCore\MoCore 1.0\MoCore 1.0\obj\Debug\net6.0-windows\MoCore 1.0.csproj.AssemblyReference.cache
+C:\programming\MoCore\MoCore\MoCore 1.0\MoCore 1.0\obj\Debug\net6.0-windows\MoCore 1.0.csproj.CopyComplete
