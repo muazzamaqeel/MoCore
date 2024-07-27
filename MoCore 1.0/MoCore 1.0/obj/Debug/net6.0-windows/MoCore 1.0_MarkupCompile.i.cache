@@ -5,16 +5,16 @@ winexe
 C#
 .cs
 C:\programming\MoCore\MoCore\MoCore 1.0\MoCore 1.0\obj\Debug\net6.0-windows\
-MoCore_1._0
+MoCore_1_0
 none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 C:\programming\MoCore\MoCore\MoCore 1.0\MoCore 1.0\App.xaml
-11407045341
+2-2093767906
 
-6225851910
+71201483996
 1951553468078
-MainWindow.xaml;
+DashboardWindow.xaml;MainWindow.xaml;
 
 False
 

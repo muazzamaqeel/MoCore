@@ -4,13 +4,13 @@
         Title="MoCore Optimizer" Height="450" Width="800" WindowStartupLocation="CenterScreen">
     <Grid Background="#2C2F33">
         <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" Width="400">
-            <TextBlock Text="MoCore - Windows" FontSize="30" Foreground="White" HorizontalAlignment="Center" Margin="0,0,0,20"/>
-            <TextBlock Text="Username" FontSize="14" Foreground="White" Margin="0,0,0,5"/>
-            <TextBox Name="UsernameTextBox" FontSize="14" Padding="10" Margin="0,0,0,20" Background="#40444B" Foreground="White" BorderThickness="0" Height="40"/>
-            <TextBlock Text="Password" FontSize="14" Foreground="White" Margin="0,0,0,5"/>
-            <PasswordBox Name="PasswordBox" FontSize="14" Padding="10" Margin="0,0,0,20" Background="#40444B" Foreground="White" BorderThickness="0" Height="40"/>
-            <Button Content="Sign In" FontSize="14" Padding="10" Margin="0,0,0,10" Background="#7289DA" Foreground="White" BorderThickness="0" Height="40" Click="SignInButton_Click"/>
-            <Button Content="Reset Password" FontSize="14" Padding="10" Margin="0,0,0,10" Background="#99AAB5" Foreground="White" BorderThickness="0" Height="40" Click="ResetPasswordButton_Click"/>
+            <TextBlock Text="MoCore Optimizer" FontSize="30" Foreground="White" HorizontalAlignment="Center" Margin="0,0,0,20"/>
+            <TextBlock Text="Username" FontSize="16" Foreground="White" Margin="0,0,0,5"/>
+            <TextBox Name="UsernameTextBox" FontSize="16" Padding="10" Margin="0,0,0,20" Background="#40444B" Foreground="White" BorderThickness="0" Height="40"/>
+            <TextBlock Text="Password" FontSize="16" Foreground="White" Margin="0,0,0,5"/>
+            <PasswordBox Name="PasswordBox" FontSize="16" Padding="10" Margin="0,0,0,20" Background="#40444B" Foreground="White" BorderThickness="0" Height="40"/>
+            <Button Content="Sign In" FontSize="16" Padding="10" Margin="0,0,0,10" Background="#7289DA" Foreground="White" BorderThickness="0" Height="40" Click="SignInButton_Click"/>
+            <Button Content="Reset Password" FontSize="16" Padding="10" Margin="0,0,0,10" Background="#99AAB5" Foreground="White" BorderThickness="0" Height="40" Click="ResetPasswordButton_Click"/>
         </StackPanel>
     </Grid>
 </Window>

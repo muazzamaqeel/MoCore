@@ -18,6 +18,7 @@ namespace MoCore_1_0
             if (IsValidCredentials(username, password))
             {
                 MessageBox.Show("Sign-in successful!", "Success", MessageBoxButton.OK, MessageBoxImage.Information);
+                OpenDashboard();
             }
             else
             {
@@ -35,6 +36,13 @@ namespace MoCore_1_0
         {
             // Implement your validation logic here
             return !string.IsNullOrEmpty(username) && !string.IsNullOrEmpty(password);
+        }
+
+        private void OpenDashboard()
+        {
+            DashboardWindow dashboardWindow = new DashboardWindow();
+            dashboardWindow.Show();
+            this.Close();
         }
     }
 }
