@@ -1,70 +1,40 @@
-﻿using System;
-using System.Diagnostics;
-using System.Management;
-using System.Windows;
-using System.Windows.Threading;
+﻿using System.Windows;
 
 namespace MoCore_1_0
 {
     public partial class MainWindow : Window
     {
-        private PerformanceCounter cpuCounter;
-        private PerformanceCounter ramCounter;
-        private DispatcherTimer timer;
-
         public MainWindow()
         {
             InitializeComponent();
-            InitializePerformanceCounters();
-            InitializeTimer();
         }
 
-        private void InitializePerformanceCounters()
+        private void SignInButton_Click(object sender, RoutedEventArgs e)
         {
-            cpuCounter = new PerformanceCounter("Processor", "% Processor Time", "_Total");
-            ramCounter = new PerformanceCounter("Memory", "Available MBytes");
-        }
+            string username = UsernameTextBox.Text;
+            string password = PasswordBox.Password;
 
-        private void InitializeTimer()
-        {
-            timer = new DispatcherTimer
+            // Implement your sign-in logic here
+            if (IsValidCredentials(username, password))
             {
-                Interval = TimeSpan.FromSeconds(1)
-            };
-            timer.Tick += Timer_Tick;
-        }
-
-        private void Timer_Tick(object sender, EventArgs e)
-        {
-            UpdatePerformanceData();
-        }
-
-        private void UpdatePerformanceData()
-        {
-            float cpuUsage = cpuCounter.NextValue();
-            float availableMemory = ramCounter.NextValue();
-            float totalMemory = GetTotalMemoryInMB();
-
-            CpuUsageText.Text = $"CPU Usage: {cpuUsage:F1}%";
-            MemoryUsageText.Text = $"Memory Usage: {totalMemory - availableMemory:F1} MB / {totalMemory:F1} MB";
-        }
-
-        private float GetTotalMemoryInMB()
-        {
-            var query = new ObjectQuery("SELECT TotalPhysicalMemory FROM Win32_ComputerSystem");
-            using (var searcher = new ManagementObjectSearcher(query))
-            {
-                foreach (var item in searcher.Get())
-                {
-                    return Convert.ToSingle(item["TotalPhysicalMemory"]) / (1024 * 1024);
-                }
+                MessageBox.Show("Sign-in successful!", "Success", MessageBoxButton.OK, MessageBoxImage.Information);
             }
-            return 0;
+            else
+            {
+                MessageBox.Show("Invalid username or password.", "Error", MessageBoxButton.OK, MessageBoxImage.Error);
+            }
         }
 
-        private void StartMonitoring_Click(object sender, RoutedEventArgs e)
+        private void ResetPasswordButton_Click(object sender, RoutedEventArgs e)
         {
-            timer.Start();
+            // Implement your reset password logic here
+            MessageBox.Show("Password reset link has been sent to your email.", "Reset Password", MessageBoxButton.OK, MessageBoxImage.Information);
+        }
+
+        private bool IsValidCredentials(string username, string password)
+        {
+            // Implement your validation logic here
+            return !string.IsNullOrEmpty(username) && !string.IsNullOrEmpty(password);
         }
     }
 }

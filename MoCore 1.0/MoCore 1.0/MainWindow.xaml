@@ -1,13 +1,16 @@
 ﻿<Window x:Class="MoCore_1_0.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        Title="MoCore Optimizer" Height="350" Width="525">
-    <Grid>
-        <StackPanel>
-            <TextBlock Text="System Performance Monitor" FontSize="20" Margin="10"/>
-            <TextBlock Name="CpuUsageText" Text="CPU Usage: " FontSize="16" Margin="10"/>
-            <TextBlock Name="MemoryUsageText" Text="Memory Usage: " FontSize="16" Margin="10"/>
-            <Button Content="Start Monitoring" Click="StartMonitoring_Click" Margin="10" Width="150"/>
+        Title="MoCore Optimizer" Height="450" Width="800" WindowStartupLocation="CenterScreen">
+    <Grid Background="#2C2F33">
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" Width="400">
+            <TextBlock Text="MoCore - Windows" FontSize="30" Foreground="White" HorizontalAlignment="Center" Margin="0,0,0,20"/>
+            <TextBlock Text="Username" FontSize="14" Foreground="White" Margin="0,0,0,5"/>
+            <TextBox Name="UsernameTextBox" FontSize="14" Padding="10" Margin="0,0,0,20" Background="#40444B" Foreground="White" BorderThickness="0" Height="40"/>
+            <TextBlock Text="Password" FontSize="14" Foreground="White" Margin="0,0,0,5"/>
+            <PasswordBox Name="PasswordBox" FontSize="14" Padding="10" Margin="0,0,0,20" Background="#40444B" Foreground="White" BorderThickness="0" Height="40"/>
+            <Button Content="Sign In" FontSize="14" Padding="10" Margin="0,0,0,10" Background="#7289DA" Foreground="White" BorderThickness="0" Height="40" Click="SignInButton_Click"/>
+            <Button Content="Reset Password" FontSize="14" Padding="10" Margin="0,0,0,10" Background="#99AAB5" Foreground="White" BorderThickness="0" Height="40" Click="ResetPasswordButton_Click"/>
         </StackPanel>
     </Grid>
 </Window>
