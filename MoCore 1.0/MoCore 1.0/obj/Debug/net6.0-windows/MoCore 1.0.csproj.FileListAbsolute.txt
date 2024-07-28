@@ -3,10 +3,8 @@ C:\programming\MoCore\MoCore\MoCore 1.0\MoCore 1.0\bin\Debug\net6.0-windows\MoCo
 C:\programming\MoCore\MoCore\MoCore 1.0\MoCore 1.0\bin\Debug\net6.0-windows\MoCore 1.0.runtimeconfig.json
 C:\programming\MoCore\MoCore\MoCore 1.0\MoCore 1.0\bin\Debug\net6.0-windows\MoCore 1.0.dll
 C:\programming\MoCore\MoCore\MoCore 1.0\MoCore 1.0\bin\Debug\net6.0-windows\MoCore 1.0.pdb
-C:\programming\MoCore\MoCore\MoCore 1.0\MoCore 1.0\obj\Debug\net6.0-windows\MainWindow.g.cs
 C:\programming\MoCore\MoCore\MoCore 1.0\MoCore 1.0\obj\Debug\net6.0-windows\App.g.cs
 C:\programming\MoCore\MoCore\MoCore 1.0\MoCore 1.0\obj\Debug\net6.0-windows\MoCore 1.0_MarkupCompile.cache
-C:\programming\MoCore\MoCore\MoCore 1.0\MoCore 1.0\obj\Debug\net6.0-windows\MainWindow.baml
 C:\programming\MoCore\MoCore\MoCore 1.0\MoCore 1.0\obj\Debug\net6.0-windows\MoCore 1.0.g.resources
 C:\programming\MoCore\MoCore\MoCore 1.0\MoCore 1.0\obj\Debug\net6.0-windows\MoCore 1.0.GeneratedMSBuildEditorConfig.editorconfig
 C:\programming\MoCore\MoCore\MoCore 1.0\MoCore 1.0\obj\Debug\net6.0-windows\MoCore 1.0.AssemblyInfoInputs.cache
@@ -22,5 +20,7 @@ C:\programming\MoCore\MoCore\MoCore 1.0\MoCore 1.0\bin\Debug\net6.0-windows\Syst
 C:\programming\MoCore\MoCore\MoCore 1.0\MoCore 1.0\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
 C:\programming\MoCore\MoCore\MoCore 1.0\MoCore 1.0\obj\Debug\net6.0-windows\MoCore 1.0.csproj.AssemblyReference.cache
 C:\programming\MoCore\MoCore\MoCore 1.0\MoCore 1.0\obj\Debug\net6.0-windows\MoCore 1.0.csproj.CopyComplete
-C:\programming\MoCore\MoCore\MoCore 1.0\MoCore 1.0\obj\Debug\net6.0-windows\DashboardWindow.baml
-C:\programming\MoCore\MoCore\MoCore 1.0\MoCore 1.0\obj\Debug\net6.0-windows\DashboardWindow.g.cs
+C:\programming\MoCore\MoCore\MoCore 1.0\MoCore 1.0\obj\Debug\net6.0-windows\Views\DashboardWindow.baml
+C:\programming\MoCore\MoCore\MoCore 1.0\MoCore 1.0\obj\Debug\net6.0-windows\Views\MainWindow.baml
+C:\programming\MoCore\MoCore\MoCore 1.0\MoCore 1.0\obj\Debug\net6.0-windows\Views\DashboardWindow.g.cs
+C:\programming\MoCore\MoCore\MoCore 1.0\MoCore 1.0\obj\Debug\net6.0-windows\Views\MainWindow.g.cs

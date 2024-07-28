@@ -14,4 +14,10 @@
 		<PackageReference Include="System.Management" Version="8.0.0" />
 	</ItemGroup>
 
+	<ItemGroup>
+	  <Page Update="Views\MainWindow.xaml">
+	    <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+	  </Page>
+	</ItemGroup>
+
 </Project>

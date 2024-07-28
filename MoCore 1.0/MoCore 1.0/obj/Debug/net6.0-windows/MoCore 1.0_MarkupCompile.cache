@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 C:\programming\MoCore\MoCore\MoCore 1.0\MoCore 1.0\App.xaml
-2-2093767906
+2-747190317
 
-5-534088366
+5-180672281
 1951553468078
-DashboardWindow.xaml;MainWindow.xaml;
+Views\DashboardWindow.xaml;Views\MainWindow.xaml;
 
 False
 
