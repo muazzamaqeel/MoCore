@@ -10,6 +10,11 @@ A Windows tool that offers a lot of functionalities like sorting files, cleaning
 | ToolBase to Subclasses         | Inheritance    | 1-to-1                                | ToolBase provides common interface, subclasses implement specific functionalities.           |
 | FileSorting to SortingStrategy | Dependency     | 1-to-1                                | FileSorting uses a SortingStrategy for sorting operations, allowing different strategies.    |
 
+### 2nd Draft below
+
+![image](https://github.com/user-attachments/assets/b0228f35-6a6e-49fe-ade7-e9124f1f4de8)
+
+
 ### 1st Draft below
 
 ![image](https://github.com/user-attachments/assets/987e1df8-0fc6-4a9f-b377-cea00d30816d)
