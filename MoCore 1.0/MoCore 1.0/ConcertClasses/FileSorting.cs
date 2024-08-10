@@ -1,12 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using MoCore_1_0.Interfaces;
 
 namespace MoCore_1_0.ConcertClasses
 {
-    class FileSorting
+    public class FileSorting : IToolBase
     {
+        public void Execute()
+        {
+            // Implementation for file sorting
+            Console.WriteLine("Sorting files...");
+        }
     }
 }

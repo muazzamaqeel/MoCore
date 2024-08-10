@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace MoCore_1_0.Interfaces
 {
-    interface IToolBase
+    // Interface instead of abstract class
+    public interface IToolBase
     {
+        void Execute();  // Interface method declaration
     }
 }
+

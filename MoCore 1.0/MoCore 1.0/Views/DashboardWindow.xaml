@@ -1,4 +1,4 @@
-﻿<Window x:Class="MoCore_1_0.DashboardWindow"
+﻿<Window x:Class="MoCore_1_0.Views.DashboardWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         Title="Dashboard" Height="450" Width="800" WindowStartupLocation="CenterScreen">

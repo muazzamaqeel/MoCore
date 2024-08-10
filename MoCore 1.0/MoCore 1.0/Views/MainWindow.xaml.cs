@@ -1,4 +1,5 @@
 ﻿using System.Windows;
+using MoCore_1_0.Views;
 
 namespace MoCore_1_0
 {
