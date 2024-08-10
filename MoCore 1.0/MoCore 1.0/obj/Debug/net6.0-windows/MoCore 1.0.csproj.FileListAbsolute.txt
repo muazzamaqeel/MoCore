@@ -19,8 +19,9 @@ C:\programming\MoCore\MoCore\MoCore 1.0\MoCore 1.0\bin\Debug\net6.0-windows\Syst
 C:\programming\MoCore\MoCore\MoCore 1.0\MoCore 1.0\bin\Debug\net6.0-windows\System.Management.dll
 C:\programming\MoCore\MoCore\MoCore 1.0\MoCore 1.0\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
 C:\programming\MoCore\MoCore\MoCore 1.0\MoCore 1.0\obj\Debug\net6.0-windows\MoCore 1.0.csproj.AssemblyReference.cache
-C:\programming\MoCore\MoCore\MoCore 1.0\MoCore 1.0\obj\Debug\net6.0-windows\MoCore 1.0.csproj.CopyComplete
 C:\programming\MoCore\MoCore\MoCore 1.0\MoCore 1.0\obj\Debug\net6.0-windows\Views\DashboardWindow.baml
 C:\programming\MoCore\MoCore\MoCore 1.0\MoCore 1.0\obj\Debug\net6.0-windows\Views\MainWindow.baml
 C:\programming\MoCore\MoCore\MoCore 1.0\MoCore 1.0\obj\Debug\net6.0-windows\Views\DashboardWindow.g.cs
 C:\programming\MoCore\MoCore\MoCore 1.0\MoCore 1.0\obj\Debug\net6.0-windows\Views\MainWindow.g.cs
+C:\programming\MoCore\MoCore\MoCore 1.0\MoCore 1.0\obj\Debug\net6.0-windows\MoCore 1.0.sourcelink.json
+C:\programming\MoCore\MoCore\MoCore 1.0\MoCore 1.0\obj\Debug\net6.0-windows\MoCore 1.0.csproj.Up2Date

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MoCore 1.0")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+11b3a171d3eeec30a6f0185d7e4945df3d8b64fb")]
 [assembly: System.Reflection.AssemblyProductAttribute("MoCore 1.0")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MoCore 1.0")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
