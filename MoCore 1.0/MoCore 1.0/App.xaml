@@ -1,9 +1,7 @@
 ﻿<Application x:Class="MoCore_1_0.App"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-             xmlns:local="clr-namespace:MoCore_1_0"
              StartupUri="Views/MainWindow.xaml">
     <Application.Resources>
-
     </Application.Resources>
 </Application>
