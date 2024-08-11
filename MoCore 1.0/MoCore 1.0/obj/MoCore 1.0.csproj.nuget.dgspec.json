@@ -57,6 +57,10 @@
             "System.Management": {
               "target": "Package",
               "version": "[8.0.0, )"
+            },
+            "System.Reactive.Windows.Forms": {
+              "target": "Package",
+              "version": "[6.0.1, )"
             }
           },
           "imports": [
@@ -73,6 +77,9 @@
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
             },
             "Microsoft.WindowsDesktop.App.WPF": {
               "privateAssets": "none"

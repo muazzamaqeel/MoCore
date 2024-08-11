@@ -9,7 +9,8 @@
       "MoCore 1.0/1.0.0": {
         "dependencies": {
           "Microsoft.VisualBasic": "10.3.0",
-          "System.Management": "8.0.0"
+          "System.Management": "8.0.0",
+          "System.Reactive.Windows.Forms": "6.0.1"
         },
         "runtime": {
           "MoCore 1.0.dll": {}
@@ -42,7 +43,28 @@
             "fileVersion": "8.0.23.53103"
           }
         }
-      }
+      },
+      "System.Reactive/6.0.1": {
+        "runtime": {
+          "lib/net6.0/System.Reactive.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.1.7420"
+          }
+        }
+      },
+      "System.Reactive.Windows.Forms/6.0.1": {
+        "dependencies": {
+          "System.Reactive": "6.0.1",
+          "System.Threading.Tasks.Extensions": "4.5.4"
+        },
+        "runtime": {
+          "lib/net472/System.Reactive.Windows.Forms.dll": {
+            "assemblyVersion": "3.0.6000.0",
+            "fileVersion": "3.0.6000.0"
+          }
+        }
+      },
+      "System.Threading.Tasks.Extensions/4.5.4": {}
     }
   },
   "libraries": {
@@ -71,6 +93,27 @@
       "sha512": "sha512-jrK22i5LRzxZCfGb+tGmke2VH7oE0DvcDlJ1HAKYU8cPmD8XnpUT0bYn2Gy98GEhGjtfbR/sxKTVb+dE770pfA==",
       "path": "system.management/8.0.0",
       "hashPath": "system.management.8.0.0.nupkg.sha512"
+    },
+    "System.Reactive/6.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-rHaWtKDwCi9qJ3ObKo8LHPMuuwv33YbmQi7TcUK1C264V3MFnOr5Im7QgCTdLniztP3GJyeiSg5x8NqYJFqRmg==",
+      "path": "system.reactive/6.0.1",
+      "hashPath": "system.reactive.6.0.1.nupkg.sha512"
+    },
+    "System.Reactive.Windows.Forms/6.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3U2N9OqlZilRNy95xGpzRi0Jm2AwsddPHKWvlunHVigldIf1xJZNqJ6MbkO8kih5GLSITiyH3yBArH1nk53Qyg==",
+      "path": "system.reactive.windows.forms/6.0.1",
+      "hashPath": "system.reactive.windows.forms.6.0.1.nupkg.sha512"
+    },
+    "System.Threading.Tasks.Extensions/4.5.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-zteT+G8xuGu6mS+mzDzYXbzS7rd3K6Fjb9RiZlYlJPam2/hU7JCBZBVEcywNuR+oZ1ncTvc/cq0faRr3P01OVg==",
+      "path": "system.threading.tasks.extensions/4.5.4",
+      "hashPath": "system.threading.tasks.extensions.4.5.4.nupkg.sha512"
     }
   }
 }

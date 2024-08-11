@@ -12,6 +12,8 @@
 	<ItemGroup>
 		<PackageReference Include="Microsoft.VisualBasic" Version="10.3.0" />
 		<PackageReference Include="System.Management" Version="8.0.0" />
+		<PackageReference Include="System.Reactive.Windows.Forms" Version="6.0.1" />
+		<FrameworkReference Include="Microsoft.WindowsDesktop.App.WindowsForms" />
 	</ItemGroup>
 
 	<ItemGroup>

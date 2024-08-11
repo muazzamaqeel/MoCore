@@ -1,67 +1,43 @@
-﻿using MoCore_1_0.Interfaces;
-using MoCore_1_0.ConcertClasses;
-using System;
+﻿using System;
 using System.Windows;
+using MoCore_1_0.ConcertClasses; // Corrected namespace
 
 namespace MoCore_1_0.Views
 {
     public partial class DashboardWindow : Window
     {
+        private readonly ToolFacade _toolFacade;
+
         public DashboardWindow()
         {
             InitializeComponent();
+            _toolFacade = new ToolFacade();
         }
 
-        // Factory Method to create tools based on a string identifier
-        public IToolBase CreateTool(string toolType)
-        {
-            switch (toolType)
-            {
-                case "PerformanceMonitor":
-                    return new PerformanceMonitor();
-                case "FileSorting":
-                    return new FileSorting();
-                case "Encryption":
-                    return new EncryptionDecryption();
-                default:
-                    throw new ArgumentException("Invalid tool type");
-            }
-        }
-
-        // Example usage of the factory method within the Dashboard class
-        public void UseTool(string toolType)
-        {
-            IToolBase tool = CreateTool(toolType);
-            tool.Execute();
-        }
-
-        // Event handler for Encryption/Decryption button click
-        private void EncryptionDecryption_Click(object sender, RoutedEventArgs e)
-        {
-            UseTool("Encryption");
-        }
-
-        // Event handler for File Sorting button click
         private void FileSorting_Click(object sender, RoutedEventArgs e)
         {
-            UseTool("FileSorting");
-        }
-
-        // Event handler for Performance Monitor button click
-        private void PerformanceMonitor_Click(object sender, RoutedEventArgs e)
-        {
-            UseTool("PerformanceMonitor");
-        }
-        private void Quit_Click(object sender, RoutedEventArgs e)
-        {
-            // Open the MainWindow
-            MainWindow mainWindow = new MainWindow();
-            mainWindow.Show();
-
-            // Close the current DashboardWindow
+            FileSortingWindow fileSortingWindow = new FileSortingWindow(_toolFacade);
+            fileSortingWindow.Show();
             this.Close();
         }
 
+        private void EncryptionDecryption_Click(object sender, RoutedEventArgs e)
+        {
+            _toolFacade.ExecuteEncryption();
+            MessageBox.Show("Encryption/Decryption completed!");
+        }
 
+        private void PerformanceMonitor_Click(object sender, RoutedEventArgs e)
+        {
+            _toolFacade.ExecutePerformanceMonitoring();
+            MessageBox.Show("Performance monitoring executed!");
+        }
+
+        private void Quit_Click(object sender, RoutedEventArgs e)
+        {
+            MainWindow mainWindow = new MainWindow();
+            mainWindow.Show();
+            this.Close();
+        }
     }
 }
