@@ -34,5 +34,34 @@ namespace MoCore_1_0.Views
             IToolBase tool = CreateTool(toolType);
             tool.Execute();
         }
+
+        // Event handler for Encryption/Decryption button click
+        private void EncryptionDecryption_Click(object sender, RoutedEventArgs e)
+        {
+            UseTool("Encryption");
+        }
+
+        // Event handler for File Sorting button click
+        private void FileSorting_Click(object sender, RoutedEventArgs e)
+        {
+            UseTool("FileSorting");
+        }
+
+        // Event handler for Performance Monitor button click
+        private void PerformanceMonitor_Click(object sender, RoutedEventArgs e)
+        {
+            UseTool("PerformanceMonitor");
+        }
+        private void Quit_Click(object sender, RoutedEventArgs e)
+        {
+            // Open the MainWindow
+            MainWindow mainWindow = new MainWindow();
+            mainWindow.Show();
+
+            // Close the current DashboardWindow
+            this.Close();
+        }
+
+
     }
 }

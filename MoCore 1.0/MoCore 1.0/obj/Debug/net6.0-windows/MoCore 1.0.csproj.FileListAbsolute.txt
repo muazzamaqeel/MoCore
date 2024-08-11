@@ -25,3 +25,4 @@ C:\programming\MoCore\MoCore\MoCore 1.0\MoCore 1.0\obj\Debug\net6.0-windows\View
 C:\programming\MoCore\MoCore\MoCore 1.0\MoCore 1.0\obj\Debug\net6.0-windows\Views\MainWindow.g.cs
 C:\programming\MoCore\MoCore\MoCore 1.0\MoCore 1.0\obj\Debug\net6.0-windows\MoCore 1.0.sourcelink.json
 C:\programming\MoCore\MoCore\MoCore 1.0\MoCore 1.0\obj\Debug\net6.0-windows\MoCore 1.0.csproj.Up2Date
+C:\programming\MoCore\MoCore\MoCore 1.0\MoCore 1.0\obj\Debug\net6.0-windows\App.baml
