@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "C:\\programming\\MoCore\\MoCore\\MoCore 1.0\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CD8CE960-B731-4EA3-A2A3-54C146B00098}|MoCore 1.0\\MoCore 1.0.csproj|c:\\programming\\mocore\\mocore\\mocore 1.0\\mocore 1.0\\views\\dashboardwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD8CE960-B731-4EA3-A2A3-54C146B00098}|MoCore 1.0\\MoCore 1.0.csproj|solutionrelative:mocore 1.0\\views\\dashboardwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CD8CE960-B731-4EA3-A2A3-54C146B00098}|MoCore 1.0\\MoCore 1.0.csproj|c:\\programming\\mocore\\mocore\\mocore 1.0\\mocore 1.0\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CD8CE960-B731-4EA3-A2A3-54C146B00098}|MoCore 1.0\\MoCore 1.0.csproj|solutionrelative:mocore 1.0\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8CE960-B731-4EA3-A2A3-54C146B00098}|MoCore 1.0\\MoCore 1.0.csproj|c:\\programming\\mocore\\mocore\\mocore 1.0\\mocore 1.0\\interfaces\\itoolbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD8CE960-B731-4EA3-A2A3-54C146B00098}|MoCore 1.0\\MoCore 1.0.csproj|solutionrelative:mocore 1.0\\interfaces\\itoolbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8CE960-B731-4EA3-A2A3-54C146B00098}|MoCore 1.0\\MoCore 1.0.csproj|c:\\programming\\mocore\\mocore\\mocore 1.0\\mocore 1.0\\concertclasses\\encryptiondecryption .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD8CE960-B731-4EA3-A2A3-54C146B00098}|MoCore 1.0\\MoCore 1.0.csproj|solutionrelative:mocore 1.0\\concertclasses\\encryptiondecryption .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8CE960-B731-4EA3-A2A3-54C146B00098}|MoCore 1.0\\MoCore 1.0.csproj|c:\\programming\\mocore\\mocore\\mocore 1.0\\mocore 1.0\\concertclasses\\filesorting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD8CE960-B731-4EA3-A2A3-54C146B00098}|MoCore 1.0\\MoCore 1.0.csproj|solutionrelative:mocore 1.0\\concertclasses\\filesorting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8CE960-B731-4EA3-A2A3-54C146B00098}|MoCore 1.0\\MoCore 1.0.csproj|c:\\programming\\mocore\\mocore\\mocore 1.0\\mocore 1.0\\concertclasses\\performancemonitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD8CE960-B731-4EA3-A2A3-54C146B00098}|MoCore 1.0\\MoCore 1.0.csproj|solutionrelative:mocore 1.0\\concertclasses\\performancemonitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8CE960-B731-4EA3-A2A3-54C146B00098}|MoCore 1.0\\MoCore 1.0.csproj|c:\\programming\\mocore\\mocore\\mocore 1.0\\mocore 1.0\\views\\dashboardwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD8CE960-B731-4EA3-A2A3-54C146B00098}|MoCore 1.0\\MoCore 1.0.csproj|solutionrelative:mocore 1.0\\views\\dashboardwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CD8CE960-B731-4EA3-A2A3-54C146B00098}|MoCore 1.0\\MoCore 1.0.csproj|c:\\programming\\mocore\\mocore\\mocore 1.0\\mocore 1.0\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -34,11 +50,95 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EncryptionDecryption .cs",
+              "DocumentMoniker": "C:\\programming\\MoCore\\MoCore\\MoCore 1.0\\MoCore 1.0\\ConcertClasses\\EncryptionDecryption .cs",
+              "RelativeDocumentMoniker": "MoCore 1.0\\ConcertClasses\\EncryptionDecryption .cs",
+              "ToolTip": "C:\\programming\\MoCore\\MoCore\\MoCore 1.0\\MoCore 1.0\\ConcertClasses\\EncryptionDecryption .cs",
+              "RelativeToolTip": "MoCore 1.0\\ConcertClasses\\EncryptionDecryption .cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T13:58:40.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FileSorting.cs",
+              "DocumentMoniker": "C:\\programming\\MoCore\\MoCore\\MoCore 1.0\\MoCore 1.0\\ConcertClasses\\FileSorting.cs",
+              "RelativeDocumentMoniker": "MoCore 1.0\\ConcertClasses\\FileSorting.cs",
+              "ToolTip": "C:\\programming\\MoCore\\MoCore\\MoCore 1.0\\MoCore 1.0\\ConcertClasses\\FileSorting.cs",
+              "RelativeToolTip": "MoCore 1.0\\ConcertClasses\\FileSorting.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T13:56:51.531Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "PerformanceMonitor.cs",
+              "DocumentMoniker": "C:\\programming\\MoCore\\MoCore\\MoCore 1.0\\MoCore 1.0\\ConcertClasses\\PerformanceMonitor.cs",
+              "RelativeDocumentMoniker": "MoCore 1.0\\ConcertClasses\\PerformanceMonitor.cs",
+              "ToolTip": "C:\\programming\\MoCore\\MoCore\\MoCore 1.0\\MoCore 1.0\\ConcertClasses\\PerformanceMonitor.cs",
+              "RelativeToolTip": "MoCore 1.0\\ConcertClasses\\PerformanceMonitor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T13:56:40.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IToolBase.cs",
+              "DocumentMoniker": "C:\\programming\\MoCore\\MoCore\\MoCore 1.0\\MoCore 1.0\\Interfaces\\IToolBase.cs",
+              "RelativeDocumentMoniker": "MoCore 1.0\\Interfaces\\IToolBase.cs",
+              "ToolTip": "C:\\programming\\MoCore\\MoCore\\MoCore 1.0\\MoCore 1.0\\Interfaces\\IToolBase.cs",
+              "RelativeToolTip": "MoCore 1.0\\Interfaces\\IToolBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T13:56:18.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DashboardWindow.xaml.cs",
+              "DocumentMoniker": "C:\\programming\\MoCore\\MoCore\\MoCore 1.0\\MoCore 1.0\\Views\\DashboardWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MoCore 1.0\\Views\\DashboardWindow.xaml.cs",
+              "ToolTip": "C:\\programming\\MoCore\\MoCore\\MoCore 1.0\\MoCore 1.0\\Views\\DashboardWindow.xaml.cs",
+              "RelativeToolTip": "MoCore 1.0\\Views\\DashboardWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T11:44:41.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\programming\\MoCore\\MoCore\\MoCore 1.0\\MoCore 1.0\\Views\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MoCore 1.0\\Views\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\programming\\MoCore\\MoCore\\MoCore 1.0\\MoCore 1.0\\Views\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MoCore 1.0\\Views\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T11:45:12.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\programming\\MoCore\\MoCore\\MoCore 1.0\\MoCore 1.0\\App.xaml",
+              "RelativeDocumentMoniker": "MoCore 1.0\\App.xaml",
+              "ToolTip": "C:\\programming\\MoCore\\MoCore\\MoCore 1.0\\MoCore 1.0\\App.xaml",
+              "RelativeToolTip": "MoCore 1.0\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-10T11:45:48.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "AssemblyInfo.cs",
               "DocumentMoniker": "C:\\programming\\MoCore\\MoCore\\MoCore 1.0\\MoCore 1.0\\AssemblyInfo.cs",
               "RelativeDocumentMoniker": "MoCore 1.0\\AssemblyInfo.cs",
@@ -46,50 +146,11 @@
               "RelativeToolTip": "MoCore 1.0\\AssemblyInfo.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-10T11:46:03.794Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-10T11:46:03.794Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "App.xaml",
-              "DocumentMoniker": "C:\\programming\\MoCore\\MoCore\\MoCore 1.0\\MoCore 1.0\\App.xaml",
-              "RelativeDocumentMoniker": "MoCore 1.0\\App.xaml",
-              "ToolTip": "C:\\programming\\MoCore\\MoCore\\MoCore 1.0\\MoCore 1.0\\App.xaml",
-              "RelativeToolTip": "MoCore 1.0\\App.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-08-10T11:45:48.072Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\programming\\MoCore\\MoCore\\MoCore 1.0\\MoCore 1.0\\Views\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "MoCore 1.0\\Views\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\programming\\MoCore\\MoCore\\MoCore 1.0\\MoCore 1.0\\Views\\MainWindow.xaml.cs",
-              "RelativeToolTip": "MoCore 1.0\\Views\\MainWindow.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-10T11:45:12.299Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DashboardWindow.xaml.cs",
-              "DocumentMoniker": "C:\\programming\\MoCore\\MoCore\\MoCore 1.0\\MoCore 1.0\\Views\\DashboardWindow.xaml.cs",
-              "RelativeDocumentMoniker": "MoCore 1.0\\Views\\DashboardWindow.xaml.cs",
-              "ToolTip": "C:\\programming\\MoCore\\MoCore\\MoCore 1.0\\MoCore 1.0\\Views\\DashboardWindow.xaml.cs",
-              "RelativeToolTip": "MoCore 1.0\\Views\\DashboardWindow.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-10T11:44:41.776Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "C:\\programming\\MoCore\\MoCore\\MoCore 1.0\\MoCore 1.0\\App.xaml.cs",
               "RelativeDocumentMoniker": "MoCore 1.0\\App.xaml.cs",
@@ -97,20 +158,18 @@
               "RelativeToolTip": "MoCore 1.0\\App.xaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-10T11:46:57.475Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-10T11:46:57.475Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\programming\\MoCore\\MoCore\\MoCore 1.0\\MoCore 1.0\\Views\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MoCore 1.0\\Views\\MainWindow.xaml",
               "ToolTip": "C:\\programming\\MoCore\\MoCore\\MoCore 1.0\\MoCore 1.0\\Views\\MainWindow.xaml",
               "RelativeToolTip": "MoCore 1.0\\Views\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-08-10T11:44:45.621Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-10T11:44:45.621Z"
             }
           ]
         },
