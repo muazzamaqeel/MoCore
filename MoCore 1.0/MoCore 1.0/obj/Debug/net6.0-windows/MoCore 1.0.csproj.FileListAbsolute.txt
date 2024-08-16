@@ -30,3 +30,8 @@ C:\programming\MoCore\MoCore\MoCore 1.0\MoCore 1.0\obj\Debug\net6.0-windows\View
 C:\programming\MoCore\MoCore\MoCore 1.0\MoCore 1.0\obj\Debug\net6.0-windows\Views\ConcertClasses_Views\FileSortingWindow.g.cs
 C:\programming\MoCore\MoCore\MoCore 1.0\MoCore 1.0\bin\Debug\net6.0-windows\System.Reactive.dll
 C:\programming\MoCore\MoCore\MoCore 1.0\MoCore 1.0\bin\Debug\net6.0-windows\System.Reactive.Windows.Forms.dll
+C:\programming\MoCore\MoCore\MoCore 1.0\MoCore 1.0\bin\Debug\net6.0-windows\OxyPlot.dll
+C:\programming\MoCore\MoCore\MoCore 1.0\MoCore 1.0\bin\Debug\net6.0-windows\OxyPlot.Wpf.dll
+C:\programming\MoCore\MoCore\MoCore 1.0\MoCore 1.0\bin\Debug\net6.0-windows\OxyPlot.Wpf.Shared.dll
+C:\programming\MoCore\MoCore\MoCore 1.0\MoCore 1.0\obj\Debug\net6.0-windows\Views\ConcertClasses_Views\PerformanceMonitorWindow.g.cs
+C:\programming\MoCore\MoCore\MoCore 1.0\MoCore 1.0\obj\Debug\net6.0-windows\Views\ConcertClasses_Views\PerformanceMonitorWindow.baml

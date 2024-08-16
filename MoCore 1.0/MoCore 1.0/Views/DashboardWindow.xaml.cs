@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Windows;
-using MoCore_1_0.ConcertClasses; // Corrected namespace
+using MoCore_1_0.ConcertClasses;
+using MoCore_1_0.Views.ConcertClasses_Views; // Corrected namespace for views
 
 namespace MoCore_1_0.Views
 {
@@ -29,8 +30,10 @@ namespace MoCore_1_0.Views
 
         private void PerformanceMonitor_Click(object sender, RoutedEventArgs e)
         {
-            _toolFacade.ExecutePerformanceMonitoring();
-            MessageBox.Show("Performance monitoring executed!");
+            // Open the PerformanceMonitorWindow instead of just executing the tool
+            PerformanceMonitorWindow performanceMonitorWindow = new PerformanceMonitorWindow();
+            performanceMonitorWindow.Show();
+            this.Close();
         }
 
         private void Quit_Click(object sender, RoutedEventArgs e)

@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 C:\programming\MoCore\MoCore\MoCore 1.0\MoCore 1.0\App.xaml
-3-1795255487
+4-837383173
 
-13571623341
-205-1776362853
-Views\ConcertClasses_Views\FileSortingWindow.xaml;Views\DashboardWindow.xaml;Views\MainWindow.xaml;
+141690988484
+208263967595
+Views\ConcertClasses_Views\FileSortingWindow.xaml;Views\ConcertClasses_Views\PerformanceMonitorWindow.xaml;Views\DashboardWindow.xaml;Views\MainWindow.xaml;
 
-False
+True
 
