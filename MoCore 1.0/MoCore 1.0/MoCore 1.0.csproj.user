@@ -7,18 +7,24 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
-    <Compile Update="Views\ConcertClasses_Views\FileSortingWindow.xaml.cs">
+    <Compile Update="Views\Calendar\CalendarMainWindow.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="Views\ConcertClasses_Views\PerformanceMonitorWindow.xaml.cs">
+    <Compile Update="Views\FunctionalitesWindows\FileSortingWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\FunctionalitesWindows\PerformanceMonitorWindow.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Page Update="Views\ConcertClasses_Views\FileSortingWindow.xaml">
+    <Page Update="Views\Calendar\CalendarMainWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="Views\ConcertClasses_Views\PerformanceMonitorWindow.xaml">
+    <Page Update="Views\FunctionalitesWindows\FileSortingWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\FunctionalitesWindows\PerformanceMonitorWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>

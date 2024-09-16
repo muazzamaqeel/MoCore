@@ -26,12 +26,17 @@ C:\programming\MoCore\MoCore\MoCore 1.0\MoCore 1.0\obj\Debug\net6.0-windows\View
 C:\programming\MoCore\MoCore\MoCore 1.0\MoCore 1.0\obj\Debug\net6.0-windows\MoCore 1.0.sourcelink.json
 C:\programming\MoCore\MoCore\MoCore 1.0\MoCore 1.0\obj\Debug\net6.0-windows\MoCore 1.0.csproj.Up2Date
 C:\programming\MoCore\MoCore\MoCore 1.0\MoCore 1.0\obj\Debug\net6.0-windows\App.baml
-C:\programming\MoCore\MoCore\MoCore 1.0\MoCore 1.0\obj\Debug\net6.0-windows\Views\ConcertClasses_Views\FileSortingWindow.baml
-C:\programming\MoCore\MoCore\MoCore 1.0\MoCore 1.0\obj\Debug\net6.0-windows\Views\ConcertClasses_Views\FileSortingWindow.g.cs
 C:\programming\MoCore\MoCore\MoCore 1.0\MoCore 1.0\bin\Debug\net6.0-windows\System.Reactive.dll
 C:\programming\MoCore\MoCore\MoCore 1.0\MoCore 1.0\bin\Debug\net6.0-windows\System.Reactive.Windows.Forms.dll
 C:\programming\MoCore\MoCore\MoCore 1.0\MoCore 1.0\bin\Debug\net6.0-windows\OxyPlot.dll
 C:\programming\MoCore\MoCore\MoCore 1.0\MoCore 1.0\bin\Debug\net6.0-windows\OxyPlot.Wpf.dll
 C:\programming\MoCore\MoCore\MoCore 1.0\MoCore 1.0\bin\Debug\net6.0-windows\OxyPlot.Wpf.Shared.dll
-C:\programming\MoCore\MoCore\MoCore 1.0\MoCore 1.0\obj\Debug\net6.0-windows\Views\ConcertClasses_Views\PerformanceMonitorWindow.g.cs
-C:\programming\MoCore\MoCore\MoCore 1.0\MoCore 1.0\obj\Debug\net6.0-windows\Views\ConcertClasses_Views\PerformanceMonitorWindow.baml
+C:\programming\MoCore\MoCore\MoCore 1.0\MoCore 1.0\obj\Debug\net6.0-windows\MoCore 1.0_MarkupCompile.lref
+C:\programming\MoCore\MoCore\MoCore 1.0\MoCore 1.0\bin\Debug\net6.0-windows\LiveCharts.dll
+C:\programming\MoCore\MoCore\MoCore 1.0\MoCore 1.0\bin\Debug\net6.0-windows\LiveCharts.Wpf.dll
+C:\programming\MoCore\MoCore\MoCore 1.0\MoCore 1.0\obj\Debug\net6.0-windows\Views\Calendar\CalendarMainWindow.g.cs
+C:\programming\MoCore\MoCore\MoCore 1.0\MoCore 1.0\obj\Debug\net6.0-windows\Views\Calendar\CalendarMainWindow.baml
+C:\programming\MoCore\MoCore\MoCore 1.0\MoCore 1.0\obj\Debug\net6.0-windows\Views\FunctionalitesWindows\FileSortingWindow.baml
+C:\programming\MoCore\MoCore\MoCore 1.0\MoCore 1.0\obj\Debug\net6.0-windows\Views\FunctionalitesWindows\FileSortingWindow.g.cs
+C:\programming\MoCore\MoCore\MoCore 1.0\MoCore 1.0\obj\Debug\net6.0-windows\Views\FunctionalitesWindows\PerformanceMonitorWindow.g.cs
+C:\programming\MoCore\MoCore\MoCore 1.0\MoCore 1.0\obj\Debug\net6.0-windows\Views\FunctionalitesWindows\PerformanceMonitorWindow.baml

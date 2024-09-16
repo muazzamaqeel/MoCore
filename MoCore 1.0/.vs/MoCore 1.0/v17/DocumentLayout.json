@@ -3,56 +3,32 @@
   "WorkspaceRootPath": "C:\\programming\\MoCore\\MoCore\\MoCore 1.0\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CD8CE960-B731-4EA3-A2A3-54C146B00098}|MoCore 1.0\\MoCore 1.0.csproj|c:\\programming\\mocore\\mocore\\mocore 1.0\\mocore 1.0\\views\\concertclasses_views\\performancemonitorwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD8CE960-B731-4EA3-A2A3-54C146B00098}|MoCore 1.0\\MoCore 1.0.csproj|solutionrelative:mocore 1.0\\views\\concertclasses_views\\performancemonitorwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CD8CE960-B731-4EA3-A2A3-54C146B00098}|MoCore 1.0\\MoCore 1.0.csproj|c:\\programming\\mocore\\mocore\\mocore 1.0\\mocore 1.0\\views\\calendar\\calendarmainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CD8CE960-B731-4EA3-A2A3-54C146B00098}|MoCore 1.0\\MoCore 1.0.csproj|solutionrelative:mocore 1.0\\views\\calendar\\calendarmainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD8CE960-B731-4EA3-A2A3-54C146B00098}|MoCore 1.0\\MoCore 1.0.csproj|c:\\programming\\mocore\\mocore\\mocore 1.0\\mocore 1.0\\concertclasses\\performancemonitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD8CE960-B731-4EA3-A2A3-54C146B00098}|MoCore 1.0\\MoCore 1.0.csproj|solutionrelative:mocore 1.0\\concertclasses\\performancemonitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD8CE960-B731-4EA3-A2A3-54C146B00098}|MoCore 1.0\\MoCore 1.0.csproj|c:\\programming\\mocore\\mocore\\mocore 1.0\\mocore 1.0\\views\\concertclasses_views\\performancemonitorwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{CD8CE960-B731-4EA3-A2A3-54C146B00098}|MoCore 1.0\\MoCore 1.0.csproj|solutionrelative:mocore 1.0\\views\\concertclasses_views\\performancemonitorwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD8CE960-B731-4EA3-A2A3-54C146B00098}|MoCore 1.0\\MoCore 1.0.csproj|c:\\programming\\mocore\\mocore\\mocore 1.0\\mocore 1.0\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD8CE960-B731-4EA3-A2A3-54C146B00098}|MoCore 1.0\\MoCore 1.0.csproj|solutionrelative:mocore 1.0\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD8CE960-B731-4EA3-A2A3-54C146B00098}|MoCore 1.0\\MoCore 1.0.csproj|c:\\programming\\mocore\\mocore\\mocore 1.0\\mocore 1.0\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{CD8CE960-B731-4EA3-A2A3-54C146B00098}|MoCore 1.0\\MoCore 1.0.csproj|solutionrelative:mocore 1.0\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD8CE960-B731-4EA3-A2A3-54C146B00098}|MoCore 1.0\\MoCore 1.0.csproj|c:\\programming\\mocore\\mocore\\mocore 1.0\\mocore 1.0\\views\\dashboardwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD8CE960-B731-4EA3-A2A3-54C146B00098}|MoCore 1.0\\MoCore 1.0.csproj|solutionrelative:mocore 1.0\\views\\dashboardwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CD8CE960-B731-4EA3-A2A3-54C146B00098}|MoCore 1.0\\MoCore 1.0.csproj|c:\\programming\\mocore\\mocore\\mocore 1.0\\mocore 1.0\\views\\calendar\\calendarmainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD8CE960-B731-4EA3-A2A3-54C146B00098}|MoCore 1.0\\MoCore 1.0.csproj|solutionrelative:mocore 1.0\\views\\calendar\\calendarmainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CD8CE960-B731-4EA3-A2A3-54C146B00098}|MoCore 1.0\\MoCore 1.0.csproj|c:\\programming\\mocore\\mocore\\mocore 1.0\\mocore 1.0\\views\\dashboardwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{CD8CE960-B731-4EA3-A2A3-54C146B00098}|MoCore 1.0\\MoCore 1.0.csproj|solutionrelative:mocore 1.0\\views\\dashboardwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD8CE960-B731-4EA3-A2A3-54C146B00098}|MoCore 1.0\\MoCore 1.0.csproj|c:\\programming\\mocore\\mocore\\mocore 1.0\\mocore 1.0\\views\\concertclasses_views\\filesortingwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD8CE960-B731-4EA3-A2A3-54C146B00098}|MoCore 1.0\\MoCore 1.0.csproj|solutionrelative:mocore 1.0\\views\\concertclasses_views\\filesortingwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD8CE960-B731-4EA3-A2A3-54C146B00098}|MoCore 1.0\\MoCore 1.0.csproj|c:\\programming\\mocore\\mocore\\mocore 1.0\\mocore 1.0\\views\\concertclasses_views\\filesortingwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{CD8CE960-B731-4EA3-A2A3-54C146B00098}|MoCore 1.0\\MoCore 1.0.csproj|solutionrelative:mocore 1.0\\views\\concertclasses_views\\filesortingwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD8CE960-B731-4EA3-A2A3-54C146B00098}|MoCore 1.0\\MoCore 1.0.csproj|c:\\programming\\mocore\\mocore\\mocore 1.0\\mocore 1.0\\interfaces\\itoolbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD8CE960-B731-4EA3-A2A3-54C146B00098}|MoCore 1.0\\MoCore 1.0.csproj|solutionrelative:mocore 1.0\\interfaces\\itoolbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD8CE960-B731-4EA3-A2A3-54C146B00098}|MoCore 1.0\\MoCore 1.0.csproj|c:\\programming\\mocore\\mocore\\mocore 1.0\\mocore 1.0\\concertclasses\\toolfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD8CE960-B731-4EA3-A2A3-54C146B00098}|MoCore 1.0\\MoCore 1.0.csproj|solutionrelative:mocore 1.0\\concertclasses\\toolfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD8CE960-B731-4EA3-A2A3-54C146B00098}|MoCore 1.0\\MoCore 1.0.csproj|c:\\programming\\mocore\\mocore\\mocore 1.0\\mocore 1.0\\concertclasses\\filesorting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD8CE960-B731-4EA3-A2A3-54C146B00098}|MoCore 1.0\\MoCore 1.0.csproj|solutionrelative:mocore 1.0\\concertclasses\\filesorting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CD8CE960-B731-4EA3-A2A3-54C146B00098}|MoCore 1.0\\MoCore 1.0.csproj|c:\\programming\\mocore\\mocore\\mocore 1.0\\mocore 1.0\\views\\dashboardwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD8CE960-B731-4EA3-A2A3-54C146B00098}|MoCore 1.0\\MoCore 1.0.csproj|solutionrelative:mocore 1.0\\views\\dashboardwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CD8CE960-B731-4EA3-A2A3-54C146B00098}|MoCore 1.0\\MoCore 1.0.csproj|c:\\programming\\mocore\\mocore\\mocore 1.0\\mocore 1.0\\concertclasses\\encryptiondecryption .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CD8CE960-B731-4EA3-A2A3-54C146B00098}|MoCore 1.0\\MoCore 1.0.csproj|solutionrelative:mocore 1.0\\concertclasses\\encryptiondecryption .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8CE960-B731-4EA3-A2A3-54C146B00098}|MoCore 1.0\\MoCore 1.0.csproj|c:\\programming\\mocore\\mocore\\mocore 1.0\\mocore 1.0\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CD8CE960-B731-4EA3-A2A3-54C146B00098}|MoCore 1.0\\MoCore 1.0.csproj|solutionrelative:mocore 1.0\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8CE960-B731-4EA3-A2A3-54C146B00098}|MoCore 1.0\\MoCore 1.0.csproj|c:\\programming\\mocore\\mocore\\mocore 1.0\\mocore 1.0\\views\\functionaliteswindows\\filesortingwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CD8CE960-B731-4EA3-A2A3-54C146B00098}|MoCore 1.0\\MoCore 1.0.csproj|solutionrelative:mocore 1.0\\views\\functionaliteswindows\\filesortingwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -61,7 +37,7 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 44,
+          "DockedWidth": 356,
           "SelectedChildIndex": 2,
           "Children": [
             {
@@ -70,168 +46,88 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "DashboardWindow.xaml",
-              "DocumentMoniker": "C:\\programming\\MoCore\\MoCore\\MoCore 1.0\\MoCore 1.0\\Views\\DashboardWindow.xaml",
-              "RelativeDocumentMoniker": "MoCore 1.0\\Views\\DashboardWindow.xaml",
-              "ToolTip": "C:\\programming\\MoCore\\MoCore\\MoCore 1.0\\MoCore 1.0\\Views\\DashboardWindow.xaml",
-              "RelativeToolTip": "MoCore 1.0\\Views\\DashboardWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-08-16T15:58:27.48Z",
+              "DocumentIndex": 1,
+              "Title": "CalendarMainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\programming\\MoCore\\MoCore\\MoCore 1.0\\MoCore 1.0\\Views\\Calendar\\CalendarMainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MoCore 1.0\\Views\\Calendar\\CalendarMainWindow.xaml.cs",
+              "ToolTip": "C:\\programming\\MoCore\\MoCore\\MoCore 1.0\\MoCore 1.0\\Views\\Calendar\\CalendarMainWindow.xaml.cs",
+              "RelativeToolTip": "MoCore 1.0\\Views\\Calendar\\CalendarMainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T14:58:20.498Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "PerformanceMonitorWindow.xaml.cs",
-              "DocumentMoniker": "C:\\programming\\MoCore\\MoCore\\MoCore 1.0\\MoCore 1.0\\Views\\ConcertClasses_Views\\PerformanceMonitorWindow.xaml.cs",
-              "RelativeDocumentMoniker": "MoCore 1.0\\Views\\ConcertClasses_Views\\PerformanceMonitorWindow.xaml.cs",
-              "ToolTip": "C:\\programming\\MoCore\\MoCore\\MoCore 1.0\\MoCore 1.0\\Views\\ConcertClasses_Views\\PerformanceMonitorWindow.xaml.cs",
-              "RelativeToolTip": "MoCore 1.0\\Views\\ConcertClasses_Views\\PerformanceMonitorWindow.xaml.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAAAB4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T15:58:23.25Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\programming\\MoCore\\MoCore\\MoCore 1.0\\MoCore 1.0\\Views\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "MoCore 1.0\\Views\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\programming\\MoCore\\MoCore\\MoCore 1.0\\MoCore 1.0\\Views\\MainWindow.xaml.cs",
-              "RelativeToolTip": "MoCore 1.0\\Views\\MainWindow.xaml.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAYwCkAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T16:00:03.972Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PerformanceMonitorWindow.xaml",
-              "DocumentMoniker": "C:\\programming\\MoCore\\MoCore\\MoCore 1.0\\MoCore 1.0\\Views\\ConcertClasses_Views\\PerformanceMonitorWindow.xaml",
-              "RelativeDocumentMoniker": "MoCore 1.0\\Views\\ConcertClasses_Views\\PerformanceMonitorWindow.xaml",
-              "ToolTip": "C:\\programming\\MoCore\\MoCore\\MoCore 1.0\\MoCore 1.0\\Views\\ConcertClasses_Views\\PerformanceMonitorWindow.xaml",
-              "RelativeToolTip": "MoCore 1.0\\Views\\ConcertClasses_Views\\PerformanceMonitorWindow.xaml",
+              "Title": "CalendarMainWindow.xaml",
+              "DocumentMoniker": "C:\\programming\\MoCore\\MoCore\\MoCore 1.0\\MoCore 1.0\\Views\\Calendar\\CalendarMainWindow.xaml",
+              "RelativeDocumentMoniker": "MoCore 1.0\\Views\\Calendar\\CalendarMainWindow.xaml",
+              "ToolTip": "C:\\programming\\MoCore\\MoCore\\MoCore 1.0\\MoCore 1.0\\Views\\Calendar\\CalendarMainWindow.xaml",
+              "RelativeToolTip": "MoCore 1.0\\Views\\Calendar\\CalendarMainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-08-16T15:58:18.612Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PerformanceMonitor.cs",
-              "DocumentMoniker": "C:\\programming\\MoCore\\MoCore\\MoCore 1.0\\MoCore 1.0\\ConcertClasses\\PerformanceMonitor.cs",
-              "RelativeDocumentMoniker": "MoCore 1.0\\ConcertClasses\\PerformanceMonitor.cs",
-              "ToolTip": "C:\\programming\\MoCore\\MoCore\\MoCore 1.0\\MoCore 1.0\\ConcertClasses\\PerformanceMonitor.cs",
-              "RelativeToolTip": "MoCore 1.0\\ConcertClasses\\PerformanceMonitor.cs",
-              "ViewState": "AQIAADwAAAAAAAAAAAAkwFEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T15:57:50.052Z",
+              "WhenOpened": "2024-09-14T14:58:05.78Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "DashboardWindow.xaml.cs",
-              "DocumentMoniker": "C:\\programming\\MoCore\\MoCore\\MoCore 1.0\\MoCore 1.0\\Views\\DashboardWindow.xaml.cs",
-              "RelativeDocumentMoniker": "MoCore 1.0\\Views\\DashboardWindow.xaml.cs",
-              "ToolTip": "C:\\programming\\MoCore\\MoCore\\MoCore 1.0\\MoCore 1.0\\Views\\DashboardWindow.xaml.cs",
-              "RelativeToolTip": "MoCore 1.0\\Views\\DashboardWindow.xaml.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAUwC4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T15:58:34.959Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\programming\\MoCore\\MoCore\\MoCore 1.0\\MoCore 1.0\\Views\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MoCore 1.0\\Views\\MainWindow.xaml",
               "ToolTip": "C:\\programming\\MoCore\\MoCore\\MoCore 1.0\\MoCore 1.0\\Views\\MainWindow.xaml",
               "RelativeToolTip": "MoCore 1.0\\Views\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-08-16T15:58:39.986Z",
+              "WhenOpened": "2024-09-14T14:37:40.987Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "FileSortingWindow.xaml",
-              "DocumentMoniker": "C:\\programming\\MoCore\\MoCore\\MoCore 1.0\\MoCore 1.0\\Views\\ConcertClasses_Views\\FileSortingWindow.xaml",
-              "RelativeDocumentMoniker": "MoCore 1.0\\Views\\ConcertClasses_Views\\FileSortingWindow.xaml",
-              "ToolTip": "C:\\programming\\MoCore\\MoCore\\MoCore 1.0\\MoCore 1.0\\Views\\ConcertClasses_Views\\FileSortingWindow.xaml",
-              "RelativeToolTip": "MoCore 1.0\\Views\\ConcertClasses_Views\\FileSortingWindow.xaml",
+              "DocumentIndex": 2,
+              "Title": "DashboardWindow.xaml",
+              "DocumentMoniker": "C:\\programming\\MoCore\\MoCore\\MoCore 1.0\\MoCore 1.0\\Views\\DashboardWindow.xaml",
+              "RelativeDocumentMoniker": "MoCore 1.0\\Views\\DashboardWindow.xaml",
+              "ToolTip": "C:\\programming\\MoCore\\MoCore\\MoCore 1.0\\MoCore 1.0\\Views\\DashboardWindow.xaml",
+              "RelativeToolTip": "MoCore 1.0\\Views\\DashboardWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-08-16T15:58:08.385Z",
+              "WhenOpened": "2024-09-14T11:12:33.21Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "FileSortingWindow.xaml.cs",
-              "DocumentMoniker": "C:\\programming\\MoCore\\MoCore\\MoCore 1.0\\MoCore 1.0\\Views\\ConcertClasses_Views\\FileSortingWindow.xaml.cs",
-              "RelativeDocumentMoniker": "MoCore 1.0\\Views\\ConcertClasses_Views\\FileSortingWindow.xaml.cs",
-              "ToolTip": "C:\\programming\\MoCore\\MoCore\\MoCore 1.0\\MoCore 1.0\\Views\\ConcertClasses_Views\\FileSortingWindow.xaml.cs",
-              "RelativeToolTip": "MoCore 1.0\\Views\\ConcertClasses_Views\\FileSortingWindow.xaml.cs",
-              "ViewState": "AQIAACIAAAAAAAAAAAAiwDsAAAAAAAAA",
+              "DocumentIndex": 3,
+              "Title": "DashboardWindow.xaml.cs",
+              "DocumentMoniker": "C:\\programming\\MoCore\\MoCore\\MoCore 1.0\\MoCore 1.0\\Views\\DashboardWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MoCore 1.0\\Views\\DashboardWindow.xaml.cs",
+              "ToolTip": "C:\\programming\\MoCore\\MoCore\\MoCore 1.0\\MoCore 1.0\\Views\\DashboardWindow.xaml.cs",
+              "RelativeToolTip": "MoCore 1.0\\Views\\DashboardWindow.xaml.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAiwCcAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T15:58:07.49Z",
+              "WhenOpened": "2024-09-14T11:12:26.683Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IToolBase.cs",
-              "DocumentMoniker": "C:\\programming\\MoCore\\MoCore\\MoCore 1.0\\MoCore 1.0\\Interfaces\\IToolBase.cs",
-              "RelativeDocumentMoniker": "MoCore 1.0\\Interfaces\\IToolBase.cs",
-              "ToolTip": "C:\\programming\\MoCore\\MoCore\\MoCore 1.0\\MoCore 1.0\\Interfaces\\IToolBase.cs",
-              "RelativeToolTip": "MoCore 1.0\\Interfaces\\IToolBase.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T15:57:59.362Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ToolFacade.cs",
-              "DocumentMoniker": "C:\\programming\\MoCore\\MoCore\\MoCore 1.0\\MoCore 1.0\\ConcertClasses\\ToolFacade.cs",
-              "RelativeDocumentMoniker": "MoCore 1.0\\ConcertClasses\\ToolFacade.cs",
-              "ToolTip": "C:\\programming\\MoCore\\MoCore\\MoCore 1.0\\MoCore 1.0\\ConcertClasses\\ToolFacade.cs",
-              "RelativeToolTip": "MoCore 1.0\\ConcertClasses\\ToolFacade.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAUwCQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T15:57:54.976Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "FileSorting.cs",
-              "DocumentMoniker": "C:\\programming\\MoCore\\MoCore\\MoCore 1.0\\MoCore 1.0\\ConcertClasses\\FileSorting.cs",
-              "RelativeDocumentMoniker": "MoCore 1.0\\ConcertClasses\\FileSorting.cs",
-              "ToolTip": "C:\\programming\\MoCore\\MoCore\\MoCore 1.0\\MoCore 1.0\\ConcertClasses\\FileSorting.cs",
-              "RelativeToolTip": "MoCore 1.0\\ConcertClasses\\FileSorting.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAiwDoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-11T15:46:05.534Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 4,
               "Title": "EncryptionDecryption .cs",
               "DocumentMoniker": "C:\\programming\\MoCore\\MoCore\\MoCore 1.0\\MoCore 1.0\\ConcertClasses\\EncryptionDecryption .cs",
               "RelativeDocumentMoniker": "MoCore 1.0\\ConcertClasses\\EncryptionDecryption .cs",
               "ToolTip": "C:\\programming\\MoCore\\MoCore\\MoCore 1.0\\MoCore 1.0\\ConcertClasses\\EncryptionDecryption .cs",
               "RelativeToolTip": "MoCore 1.0\\ConcertClasses\\EncryptionDecryption .cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-11T16:15:34.712Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-04T16:51:52.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FileSortingWindow.xaml",
+              "DocumentMoniker": "C:\\programming\\MoCore\\MoCore\\MoCore 1.0\\MoCore 1.0\\Views\\FunctionalitesWindows\\FileSortingWindow.xaml",
+              "RelativeDocumentMoniker": "MoCore 1.0\\Views\\FunctionalitesWindows\\FileSortingWindow.xaml",
+              "ToolTip": "C:\\programming\\MoCore\\MoCore\\MoCore 1.0\\MoCore 1.0\\Views\\FunctionalitesWindows\\FileSortingWindow.xaml",
+              "RelativeToolTip": "MoCore 1.0\\Views\\FunctionalitesWindows\\FileSortingWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-24T12:58:29.92Z"
             }
           ]
         }

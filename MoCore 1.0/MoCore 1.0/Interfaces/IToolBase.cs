@@ -2,6 +2,8 @@
 {
     public interface IToolBase
     {
-        void Execute();  // Executes the tool's main function
+          // Executes the tool's main function
+
+        void Execute();
     }
 }
